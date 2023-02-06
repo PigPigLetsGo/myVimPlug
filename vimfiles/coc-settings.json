@@ -1,0 +1,7 @@
+"java.configuration.runtimes": [
+  {
+    "name": "JavaSE-18",
+    "path": "C:\jdk18\jdk-18.0.2.1\bin",
+    "default": true
+  },
+]
